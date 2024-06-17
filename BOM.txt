@@ -1,0 +1,13 @@
+Componente           Fabricante     Número de serie
+------------        -------------   -----------------
+Placa arduino           Intel           67985432
+Joystick Module         Keyestudio      78975109
+LM35 Temp Sensor        Keyestudio      61095387
+DHT11 Sensor            Keyestudio      12345986
+1602 I2C LCD            Keyestudio      76534565
+Photoresistor           Keyestudio      67890012
+LED-RGB                 Keyestudio      98763100
+220 ohm resistor        Keyestudio      99886644
+1k ohm resistor         Keyestudio      99386640
+Servo motor             Keyestudio      11550000
+Button Switch           Keyestudio      66612385
