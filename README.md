@@ -1,5 +1,5 @@
-# Actividad_2_Equipos_e_Instrumentacion
-Actividad 2 de la asignatura de Equipos e Instrumentación del master de Ingeniería de Telecomunicación de la UNIR. Esta actividad esta realizada por:
+# Actividad_3_Equipos_e_Instrumentacion
+Actividad 3 de la asignatura de Equipos e Instrumentación del master de Ingeniería de Telecomunicación de la UNIR. Esta actividad esta realizada por:
 
 - Francisco Javier Hernántes Luaces
 - Javier Lluch Sanz
