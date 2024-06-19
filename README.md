@@ -24,6 +24,22 @@ En la carpeta [code](code "codigo") se encuentra el archivo .ino con el código 
 
 ## Pruebas de Validación
 ### Simulación de wokwi
-Si se pincha en este [enlace](https://wokwi.com/projects/399113513141451777 "wokwi") se dirigirá la simulación del circuito en la plataforma Wokwi.
+Si se pincha en este [enlace](https://wokwi.com/projects/400202610798134273 "wokwi") se dirigirá la simulación del circuito en la plataforma Wokwi.
 ### Pruebas con el circuito
-En este [enlace](https://drive.google.com/file/d/1DF55QCHDk_aXHT-DhjxNFKwE1j-dMLz1/view?usp=drive_link "Video") se encuentra un video que muestra el funcionamiento de la actividad realizada por este grupo.
+En este [enlace](https://drive.google.com/file/d/13qZfG0QAxgeHiCLZxAjfVpgD4lqHaW6A/view?usp=drive_link "Video") se encuentra un video que muestra el funcionamiento de la actividad realizada por este grupo.
+
+## Snippets
+
+En este apartado se muestran algunas partes del código que facilitan el entendimiento del mismo.
+
+### Entrada y salida difursa
+En la imagen inferior se puede observar el conjunto de entrada y salida para la lógica difusa.
+![Entrada y salida difusa](img/Entrada_y_salida_difusa.png)
+
+### Definción del botón
+En la imagen inferior se puede observar la función que maneja el control del botón.
+![Boton](img/Boton.png)
+
+### Definción del mando
+En la imagen inferior se puede observar la función que maneja el control del mando.
+![Mando](img/Mando.png)

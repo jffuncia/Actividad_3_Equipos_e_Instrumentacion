@@ -11,3 +11,5 @@ LED-RGB                 Keyestudio      98763100
 1k ohm resistor         Keyestudio      99386640
 Servo motor             Keyestudio      11550000
 Button Switch           Keyestudio      66612385
+Mando Inalambrico	Keyestudio	98349001
+Servomotor 		Keyestudio	55533997
